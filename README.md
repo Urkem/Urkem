@@ -1,1 +1,1 @@
-[![](https://github.com/Urkem/Urkem/blob/master/nointernet.gif)](#)
+[![](https://github.com/Urkem/Urkem/blob/main/nointernet.gif)](#)
